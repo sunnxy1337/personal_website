@@ -24,14 +24,14 @@ export const socials = [
       </svg>
     ),
     alt: "GitHub",
-    href: "https://github.com/1337sunny",
-    text: "github.com/1337sunny",
+    href: "https://github.com/sunnxy1337",
+    text: "github.com/sunnxy1337",
   },
   {
     logo: <Twitter size={20} />,
     alt: "Twitter",
-    href: "https://twitter.com/1337_sunny",
-    text: "twitter.com/1337_sunny",
+    href: "_",
+    text: "_",
   },
 ];
 
